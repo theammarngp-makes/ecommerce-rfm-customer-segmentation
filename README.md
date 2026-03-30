@@ -41,15 +41,6 @@ The goal is to identify high-value customers, detect churn risks, and provide ac
 [View Interactive Dashboard](https://public.tableau.com/views/RFMAnalysis_17734745913220/Dashboard4)
 
 
-## 📂 Project Structure
-ecommerce-rfm-customer-segmentation
-┣ 📂 sql_queries
-┃ ┗ rfm_analysis.sql
-┣ insights.md
-┣ README.md
-┗ dashboard.png
-
-
 ## 💡 Business Recommendations
 
 - Retain high-value customers (Champions) through personalized engagement  
