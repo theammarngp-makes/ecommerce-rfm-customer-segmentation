@@ -34,8 +34,7 @@ The goal is to identify high-value customers, detect churn risks, and provide ac
 
 ## 📊 Dashboard Preview
 
-![RFM Dashboard](<img width="2398" height="1198" alt="RFM" src="https://github.com/user-attachments/assets/7b1407d4-0938-4f99-9e9e-d8ba5af576b4" />
-)
+<img width="2398" height="1198" alt="RFM" src="https://github.com/user-attachments/assets/7b1407d4-0938-4f99-9e9e-d8ba5af576b4" />
 
 
 ## 📊 Live Dashboard
