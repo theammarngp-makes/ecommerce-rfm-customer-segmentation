@@ -71,5 +71,9 @@ Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 Aspiring Data Analyst | SQL | Tableau  
 
 
+## 🔗 Related Projects
 
+- E-commerce Sales Analysis  
+- Cohort Retention Analysis
+  
 ## ⭐ If you found this project useful, consider giving it a star!
