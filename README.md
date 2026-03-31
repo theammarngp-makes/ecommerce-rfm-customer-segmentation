@@ -73,7 +73,7 @@ Aspiring Data Analyst | SQL | Tableau
 
 ## 🔗 Related Projects
 
-- E-commerce Sales Analysis  
-- Cohort Retention Analysis
+- E-commerce Sales Analysis : https://github.com/theammarngp-makes/olist-sales-analysis
+- Cohort Retention Analysis : https://github.com/theammarngp-makes/E-commerce-cohort-retention-analysis
   
 ## ⭐ If you found this project useful, consider giving it a star!
