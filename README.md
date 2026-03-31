@@ -12,12 +12,15 @@ The goal is to identify high-value customers, detect churn risks, and provide ac
 - Tableau (for visualization)
 
 ## 📁 Repository Structure
-* **`data/`**: Contains the `RFM Segmentation.csv` and `RFM.csv` files, which house the specific insights and segmented data driven from the SQL queries.
-* **`sql_queries/`**: Contains the `.sql` scripts. These files include the detailed documentation, logic, and step-by-step methodology used for the analysis.
-* **`insights/`**: Refined analysis and summary of business findings.
-* **`dashboard/`**: Visual assets, including the `RFM.png` Tableau dashboard preview.
-* **`LICENSE`**: The legal framework for using and sharing this project.
-* **`README.md`**: This file, providing a project overview and navigation guide.
+
+| Folder / File | Content |
+| :--- | :--- |
+| **📁 dashboard** | `cohort retention.png` — Tableau visual assets. |
+| **📁 data** | `Cohort Retention %.csv` — Insights generated from SQL queries. |
+| **📁 insights** | `insights.md` — Detailed business analysis summary. |
+| **📁 sql** | `cohort_analysis.sql` — **Technical documentation** and script logic. |
+| **📄 README.md** | Project overview and navigation. |
+| **⚖️ LICENSE** | MIT License information. |
 
 
 ## 📈 RFM Segment Summary
