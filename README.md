@@ -11,6 +11,14 @@ The goal is to identify high-value customers, detect churn risks, and provide ac
 - Excel / CSV
 - Tableau (for visualization)
 
+## 📁 Repository Structure
+* **`data/`**: Contains the `RFM Segmentation.csv` and `RFM.csv` files, which house the specific insights and segmented data driven from the SQL queries.
+* **`sql_queries/`**: Contains the `.sql` scripts. These files include the detailed documentation, logic, and step-by-step methodology used for the analysis.
+* **`insights/`**: Refined analysis and summary of business findings.
+* **`dashboard/`**: Visual assets, including the `RFM.png` Tableau dashboard preview.
+* **`LICENSE`**: The legal framework for using and sharing this project.
+* **`README.md`**: This file, providing a project overview and navigation guide.
+
 
 ## 📈 RFM Segment Summary
 
