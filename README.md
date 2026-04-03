@@ -16,7 +16,7 @@ The goal is to identify high-value customers, detect churn risks, and provide ac
 | Folder / File | Content |
 | :--- | :--- |
 | **📁 dashboard** | `RFM.png` — Tableau visual assets. |
-| **📁 data** | `RFM.csv` `RFM Segmentation.csv` — Insights generated from SQL queries. |
+| **📁 data** | `RFM.csv` & `RFM Segmentation.csv` — Insights generated from SQL queries. |
 | **📁 insights** | `insights.md` — Detailed business analysis summary. |
 | **📁 sql** | `RFM.sql` & `RFM Segmentation.sql` — **Technical documentation** and script logic. |
 | **📄 README.md** | Project overview and navigation. |
