@@ -15,10 +15,10 @@ The goal is to identify high-value customers, detect churn risks, and provide ac
 
 | Folder / File | Content |
 | :--- | :--- |
-| **📁 dashboard** | `cohort retention.png` — Tableau visual assets. |
-| **📁 data** | `Cohort Retention %.csv` — Insights generated from SQL queries. |
+| **📁 dashboard** | `RFM.png` — Tableau visual assets. |
+| **📁 data** | `RFM.csv` `RFM Segmentation.csv` — Insights generated from SQL queries. |
 | **📁 insights** | `insights.md` — Detailed business analysis summary. |
-| **📁 sql** | `cohort_analysis.sql` — **Technical documentation** and script logic. |
+| **📁 sql** | `RFM.sql` & `RFM Segmentation.sql` — **Technical documentation** and script logic. |
 | **📄 README.md** | Project overview and navigation. |
 | **⚖️ LICENSE** | MIT License information. |
 
