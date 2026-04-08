@@ -5,7 +5,10 @@ This project applies **RFM (Recency, Frequency, Monetary) analysis** on an e-com
 
 The goal is to identify high-value customers, detect churn risks, and provide actionable insights to improve customer retention and revenue growth.
 
-
+## 🛠 Tools Used
+- SQL (MySQL)
+- Excel / CSV
+- Tableau (for visualization)
 
 
 ## 📁 Repository Structure
