@@ -60,3 +60,4 @@ ORDER BY total_revenue DESC;
 -- The RFM analysis revealed that Champions represent a relatively small customer base (~13K) but generate the highest average revenue (306), indicating strong revenue concentration among top-tier customers.
 -- The Loyal segment forms the largest group (~41K) but shows lower average spending, suggesting upsell opportunities.
 -- The At-Risk segment, despite being small (~1.9K), demonstrates high revenue potential (225 avg), making them critical for retention-focused strategies.
+# hi ruffy bhai
