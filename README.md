@@ -1,14 +1,13 @@
-# 📊 E-commerce RFM Customer Segmentation
+# 📊 E-Commerce RFM Customer Segmentation
 
-## 📌 Project Overview
-This project applies **RFM (Recency, Frequency, Monetary) analysis** on an e-commerce dataset to segment customers based on their purchasing behavior.
+## 📌 Problem Statement
+Segment customers based on purchasing behavior using RFM (Recency, Frequency, Monetary) analysis to identify high-value users, detect churn risk, and improve retention strategies.
+## ⚡ Quick Snapshot
 
-The goal is to identify high-value customers, detect churn risks, and provide actionable insights to improve customer retention and revenue growth.
-
-## 🛠 Tools Used
-- SQL (MySQL)
-- Excel / CSV
-- Tableau (for visualization)
+- 📊 Dataset: Olist E-commerce (Brazil)
+- 🛠 Tools: SQL, Python, Tableau
+- 🎯 Technique: RFM Segmentation
+- 📈 Goal: Customer segmentation & revenue optimization
 
 
 ## 📁 Repository Structure
@@ -23,16 +22,15 @@ The goal is to identify high-value customers, detect churn risks, and provide ac
 | **⚖️ LICENSE** | MIT License information. |
 
 
-## 📈 RFM Segment Summary
+## 📊 RFM Segment Summary
 
-| Segment    | Customers | Total Revenue | Revenue % |
-|------------|----------:|--------------:|----------:|
-| Loyal      | 41,740    | 5.05M         | 32.12%    |
-| Others     | 25,402    | 4.09M         | 26.00%    |
-| Champions  | 13,354    | 4.09M         | 25.98%    |
-| Lost       | 12,593    | 2.07M         | 13.18%    |
-| At Risk    | 1,900     | 0.43M         | 2.72%     |
-
+| Segment     | Customers | Revenue | Revenue % |
+|------------|----------|---------|----------|
+| 🟢 Loyal        | 41,740   | 5.05M   | 32.12%   |
+| 🔵 Others       | 25,402   | 4.09M   | 26.00%   |
+| 🟡 Champions    | 13,354   | 4.09M   | 25.98%   |
+| 🔴 Lost         | 12,593   | 2.07M   | 13.18%   |
+| 🟠 At Risk      | 1,900    | 0.43M   | 2.72%    |
 
 ## 🔍 Key Highlights
 
@@ -48,7 +46,7 @@ The goal is to identify high-value customers, detect churn risks, and provide ac
 <img width="2398" height="1198" alt="RFM" src="https://github.com/user-attachments/assets/7b1407d4-0938-4f99-9e9e-d8ba5af576b4" />
 
 
-## 📊 Live Dashboard
+## 🌐 Live Interactive Dashboard
 [View Interactive Dashboard](https://public.tableau.com/views/RFMAnalysis_17734745913220/Dashboard4)
 
 
@@ -77,12 +75,36 @@ Aspiring Data Analyst | SQL | Tableau
 - Cohort Retention Analysis : https://github.com/theammarngp-makes/E-commerce-cohort-retention-analysis
   
 ## ⭐ If you found this project useful, consider giving it a star!
----
 
 ## 🚀 Skills & Tools Used
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau)
+<p align="center">
+
+<a href="https://www.python.org">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://img.shields.io/badge/SQL-MySQL-black?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</a>
+
+<a href="https://matplotlib.org/">
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://www.tableau.com/">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/RFM-Analysis-green?style=for-the-badge"/>
+</a>
+
+</p>
+
+## 🎯 Project Outcome
+This project demonstrates the ability to apply customer segmentation techniques to derive actionable insights for improving retention, revenue, and marketing strategies.
