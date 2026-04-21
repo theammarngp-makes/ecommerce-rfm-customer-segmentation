@@ -14,7 +14,8 @@ Segment customers based on purchasing behavior using RFM (Recency, Frequency, Mo
 
 | Folder / File | Content |
 | :--- | :--- |
-| **📁 dashboard** | `RFM.png` — Tableau visual assets. |
+| **📁 Pandas** | `RFM.py` - Python EDA> | 
+| **📁 dashboard** | `RFM.png` & `rfm_python.png` — Tableau visual assets. |
 | **📁 data** | `RFM.csv` & `RFM Segmentation.csv` — Insights generated from SQL queries. |
 | **📁 insights** | `insights.md` — Detailed business analysis summary. |
 | **📁 sql** | `RFM.sql` & `RFM Segmentation Analysis.sql` — **Technical documentation** and script logic. |
