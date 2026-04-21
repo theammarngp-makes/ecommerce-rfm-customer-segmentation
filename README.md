@@ -77,3 +77,12 @@ Aspiring Data Analyst | SQL | Tableau
 - Cohort Retention Analysis : https://github.com/theammarngp-makes/E-commerce-cohort-retention-analysis
   
 ## ⭐ If you found this project useful, consider giving it a star!
+---
+
+## 🚀 Skills & Tools Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau)
