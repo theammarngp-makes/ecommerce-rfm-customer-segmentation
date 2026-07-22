@@ -242,9 +242,9 @@ Customer intelligence in this project moves through three layers:
 ## 🔬 RFM Methodology  
 
 RFM scores each customer on three purchasing dimensions, concatenated into a segment-classification key:  
-
-$$\text{RFM ID} = (\text{R\_score}) \times 100 + (\text{F\_score}) \times 10 + (\text{M\_score})$$
-
+```
+$$text{RFM ID} = (\text{R\_score}) \times 100 + (\text{F\_score}) \times 10 + (\text{M\_score})$$
+```
 
 | Dimension | Calculation | Scoring |
 |---|---|---|
